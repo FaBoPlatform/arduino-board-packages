@@ -19,8 +19,8 @@
           },
           "url": "https://FaBoPlatform.github.io/arduino-board-packages/packages/fabo-avr-0.0.1.tar.bz2",
           "archiveFileName": "fabo-avr-0.0.1.tar.bz2",
-          "checksum": "SHA-256:33f9a3150f83eeb127b0eaa34aaf15e9b91dcd333ab0763bf652aba5f550161b",
-          "size": "1178",
+          "checksum": "SHA-256:b82c8872eb70f7206d182d34894e25afb71bffb80c1f6c46073339e4153aa893",
+          "size": "1023",
           "boards": [
             {"name": "FaBo Donkey"}
           ],
