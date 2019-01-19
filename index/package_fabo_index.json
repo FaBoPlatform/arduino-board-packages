@@ -12,6 +12,34 @@
         {
           "name": "FaBo AVR Boards",
           "architecture": "avr",
+          "version": "0.0.3",
+          "category": "Contributed",
+          "help": {
+            "online": "http://fabo.io"
+          },
+          "url": "https://FaBoPlatform.github.io/arduino-board-packages/packages/fabo-avr-0.0.3.tar.bz2",
+          "archiveFileName": "fabo-avr-0.0.3.tar.bz2",
+          "checksum": "SHA-256:a4f65c86a40301451efae5bf306a772273384b711b10884fe50de18e07888920",
+          "size": "3905",
+          "boards": [
+            {"name": "FaBo Donkey"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "5.4.0-atmel3.6.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino14"
+            }
+          ]
+        },
+        {
+          "name": "FaBo AVR Boards",
+          "architecture": "avr",
           "version": "0.0.2",
           "category": "Contributed",
           "help": {
